@@ -1,0 +1,238 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2022 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2022 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2022 MARVEL</a>",
+  "etag": "4c3e580e23cfc618d520cc0f4c80a4f2657bd6e6",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 1,
+    "count": 1,
+    "results": [
+      {
+        "id": 10008,
+        "digitalId": 3034,
+        "title": "Marvel Comics (1939) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2021-03-04T09:11:05-0500",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 0,
+        "textObjects": [
+          {
+            "type": "70th_winner_desc",
+            "language": "en-us",
+            "text": "The one that started it all, featuring the first appearances of both the the android Human Torch and the Sub-Mariner!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/10008",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/10008/marvel_comics_1939_1?utm_campaign=apiRef&utm_source=689056d956763138413b6cb7868ad5bc"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Marvel-Comics-1/digital-comic/3034?utm_campaign=apiRef&utm_source=689056d956763138413b6cb7868ad5bc"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=3034&utm_campaign=apiRef&utm_source=689056d956763138413b6cb7868ad5bc"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/3034?utm_campaign=apiRef&utm_source=689056d956763138413b6cb7868ad5bc"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/2038",
+          "name": "Marvel Comics (1939)"
+        },
+        "variants": [],
+        "collections": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/1231",
+            "name": "MARVEL MASTERWORKS: THE SUB-MARINER VOL. 1 HC (Hardcover)"
+          }
+        ],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "1939-08-31T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2007-11-13T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-10-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/00/5029570997db4",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4d473c96dd1a0",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/4d473b3cd08a7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1304",
+              "name": "Al Anders",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1303",
+              "name": "Paul Gustavson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/961",
+              "name": "Ben Thompson",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/408",
+              "name": "Carl Burgos",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/297",
+              "name": "Bill Everett",
+              "role": "letterer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009159",
+              "name": "Archangel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010932",
+              "name": "Human Torch (Jim Hammond)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009466",
+              "name": "Namor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+              "name": "Sub-Mariner"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8821",
+              "name": "Cover #8821",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8822",
+              "name": "[Origin of the Human Torch]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8823",
+              "name": "[The Six Big Men]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8824",
+              "name": "[Origin of the Sub-Mariner]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8825",
+              "name": "[Origin of the Masked Raider]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8826",
+              "name": "Jungle Terror",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8827",
+              "name": "Burning Rubber",
+              "type": "text story"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/8828",
+              "name": "[Origin of Ka-Zar]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/196462",
+              "name": "cover from Marvel Comics (1939) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/196463",
+              "name": "story from Marvel Comics (1939) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 10
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/10008/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
