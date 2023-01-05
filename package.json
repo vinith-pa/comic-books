@@ -1,6 +1,6 @@
 {
   "homepage": "https://vinith-pa.github.io/comic-books/",
-  "name": "my-app",
+  "name": "comic-books",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
