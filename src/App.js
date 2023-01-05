@@ -1,12 +1,12 @@
 import React from "react";
-import Content from "./Components/Content";
+import Body from "./Components/Body";
 import Main from "./Components/Header";
 
 export default function App() {
   return (
     <>
       <Main />
-      <Content />
+      <Body />
     </>
   );
 }

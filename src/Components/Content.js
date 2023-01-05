@@ -1,11 +1,16 @@
 import data from "../marvel.json";
+import { useState } from "react";
 
-const Content = () => {
+const Comics = () => {
+  const [comics, setComics] = useState([data]);
   return (
-    <section>
-      <h2>Content</h2>
-    </section>
+    <main>
+      {comics.map((comic) => (
+        <a href={comic.data.results[0].urls[0].url}>
+          <p>{comic.data.results[0].title}</p>
+        </a>
+      ))}
+    </main>
   );
 };
-
-export default Content;
+export default Comics;
